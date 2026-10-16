@@ -2,7 +2,7 @@
 
 RPCS3 (PlayStation 3 emülatörü) için Türkçe yama ve tek tıkla kurulum aracı.
 
-**Yapımcı:** novacollada — Discord: `menua.gg`
+**Yapımcı:** novacollada — Discord: `novacollada`
 
 > **İndirme:** Sağ taraftaki **Releases** bölümünden en son sürümü indirin.
 
