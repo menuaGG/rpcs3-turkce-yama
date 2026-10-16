@@ -52,7 +52,7 @@ certutil -hashfile RPCS3-Turkce-Yama.exe SHA256
 
 Çıkan özet tablodakiyle **birebir aynı** olmalıdır. Uyuşmuyorsa dosyayı silip yalnızca bu depodan yeniden indirin. (ZIP içindeki `RPCS3-Turkce-Yama.exe` dosyası da yukarıdakiyle aynı özete sahiptir.)
 
-> Not: VirusTotal bağlantıları, dosya ilk kez tarandıktan sonra raporu gösterir.
+> Not: VirusTotal bağlantıları, dosya ilk kez tarandıktan sonra raporu gösterir. Raporlarda Malwarebytes (ML/Anomalous) ve MaxSecure (generic) gibi birkaç sezgisel motor, imzasız ve yeni yayınlanan kurucularda tipik olan **yanlış pozitif** tespit üretebilir; diğer motorlar "Undetected" görünür. Kesin doğrulama yolu SHA-256 eşleşmesidir.
 
 ## Bilinen sınırlar
 
