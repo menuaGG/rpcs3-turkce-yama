@@ -60,6 +60,6 @@ certutil -hashfile RPCS3-Turkce-Yama.exe SHA256
 
 ## Lisans ve telif
 
-© 2026 novacollada. Bu Türkçe yama **novacollada** tarafından hazırlanmıştır. İzinsiz kopyalanması, yeniden yayınlanması veya ücretli satılması yasaktır. Ayrıntılar için [LICENSE](LICENSE) dosyasına bakın.
+© 2026 menua-gg. Bu Türkçe yama **menua-gg** tarafından hazırlanmıştır. İzinsiz kopyalanması, yeniden yayınlanması veya ücretli satılması yasaktır. Ayrıntılar için [LICENSE](LICENSE) dosyasına bakın.
 
 Bu proje bir hayran çevirisidir; RPCS3 ekibiyle resmî bağlantısı yoktur.
